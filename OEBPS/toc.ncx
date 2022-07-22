@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="bba97d0d-0709-45a9-9636-335a0a414beb"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.1.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>仪礼注疏</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>儀禮疏序</text>
+      </navLabel>
+      <content src="Text/3896.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>儀禮注疏原目</text>
+      </navLabel>
+      <content src="Text/3897.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>卷一·士冠禮第一</text>
+      </navLabel>
+      <content src="Text/3898.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>卷二·士昏禮第二</text>
+      </navLabel>
+      <content src="Text/3899.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>卷三·士相見禮第三</text>
+      </navLabel>
+      <content src="Text/3900.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>卷四·鄉飲酒禮第四</text>
+      </navLabel>
+      <content src="Text/3901.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>卷五·鄉射禮第五</text>
+      </navLabel>
+      <content src="Text/3902.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>卷六·燕禮第六</text>
+      </navLabel>
+      <content src="Text/3903.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>卷七·大射儀第七</text>
+      </navLabel>
+      <content src="Text/3904.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>卷八·聘禮第八</text>
+      </navLabel>
+      <content src="Text/3905.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>卷九·公食大夫禮第九</text>
+      </navLabel>
+      <content src="Text/3906.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>卷十·覲禮第十</text>
+      </navLabel>
+      <content src="Text/3907.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>卷十一·喪服第十一</text>
+      </navLabel>
+      <content src="Text/3908.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>卷十二·士喪禮第十二</text>
+      </navLabel>
+      <content src="Text/3909.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>卷十三·既夕禮第十三</text>
+      </navLabel>
+      <content src="Text/3910.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>卷十四·士虞禮第十四</text>
+      </navLabel>
+      <content src="Text/3911.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>卷十五·特牲饋食禮第十五</text>
+      </navLabel>
+      <content src="Text/3912.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>卷十六·少牢饋食禮第十六</text>
+      </navLabel>
+      <content src="Text/3913.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>卷十七·有司徹第十七</text>
+      </navLabel>
+      <content src="Text/3914.html#toc_1"/>
+    </navPoint>
+  </navMap>
+</ncx>
