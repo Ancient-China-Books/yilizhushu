@@ -1,18 +1,15 @@
 <?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uLyZLAN4OXkC494HrPA2HrG">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <dc:title>仪礼注疏</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="[汉]郑玄注 &amp; [唐]贾公彦疏 &amp; 点校, 王辉 &amp; 郑玄 &amp; 注解, 郑玄">[汉]郑玄注</dc:creator>
+    <dc:title>儀禮注疏</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="[汉]郑玄注 &amp; [唐]贾公彦疏">[汉]郑玄注</dc:creator>
     <dc:creator opf:role="aut">[唐]贾公彦疏</dc:creator>
-    <dc:creator opf:role="aut">王辉 点校</dc:creator>
-    <dc:creator opf:role="aut">郑玄</dc:creator>
-    <dc:creator opf:role="aut">郑玄 注解</dc:creator>
-    <dc:publisher>上海古籍出版社</dc:publisher>
+    <dc:publisher>摛澡堂四庫全書薈要</dc:publisher>
     <dc:description>&lt;div&gt;
-&lt;p&gt;《仪礼》是儒家经典之一，也是先秦时代有关社会习俗和礼制的资料总汇，对研究儒家思想和古代社会生活极具价值。历代为之作注解者很多。唐代编《五经正义》，将郑玄注和贾公彦疏作为钦定的《仪礼》注释，编成《仪礼注疏》，成为后世最权威的《仪礼》读本，与其他唐代钦定儒家经典注疏统称为《十三经注疏》。唐以后多次重刻，但质量良莠不齐，版本多有异同，错讹亦难以避免。有鉴于此，王辉先生潜心数载，将此书重新校勘整理，比较异同，择善而从，并吸收了历代学者研究《仪礼》的成果。各卷后附有校勘记。本书将成为《仪礼》最好的版本。&lt;/p&gt;
 &lt;p&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;基於「&lt;/span&gt;&lt;a href="https://www.donglishuzhai.net/books/84.html"&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #2980b9; background-color: #ffffff"&gt;東里書齋&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;」重製電子版。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
-    <dc:date>2008-11-30T16:00:00+00:00</dc:date>
+    <dc:date>1775-11-30T15:54:17+00:00</dc:date>
     <dc:identifier id="uLyZLAN4OXkC494HrPA2HrG" opf:scheme="uuid">uLyZLAN4OXkC494HrPA2HrG</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:subject>经学</dc:subject>
     <dc:subject>經學</dc:subject>
     <dc:subject>礼学</dc:subject>
@@ -21,21 +18,18 @@
     <dc:subject>十三經註疏</dc:subject>
     <dc:subject>古代文学</dc:subject>
     <dc:subject>中国</dc:subject>
-    <dc:subject>齐·十三经注疏·精装</dc:subject>
-    <dc:subject>郑玄</dc:subject>
-    <dc:contributor opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">d9c70ed6-ece4-4a72-8e82-7da7e46500f5</dc:identifier>
+    <dc:identifier opf:scheme="calibre">956f9608-e9c2-4f8f-b2f3-13757df97e08</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">3337257</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787532550692</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
-    <meta content="十三經注疏（精裝）" name="calibre:series"/>
+    <meta content="十三經注疏" name="calibre:series"/>
     <meta content="8.0" name="calibre:rating"/>
     <meta content="1.9.10" name="Sigil version"/>
     <meta name="cover" content="cover"/>
-    <meta name="calibre:title_sort" content="仪礼注疏"/>
+    <meta name="calibre:title_sort" content="儀禮注疏"/>
     <meta name="calibre:series_index" content="1.0"/>
-    <meta name="calibre:author_link_map" content="{&quot;[汉]郑玄注&quot;: &quot;&quot;, &quot;[唐]贾公彦疏&quot;: &quot;&quot;, &quot;王辉 点校&quot;: &quot;&quot;, &quot;郑玄&quot;: &quot;&quot;, &quot;郑玄 注解&quot;: &quot;&quot;}"/>
+    <meta name="calibre:author_link_map" content="{&quot;[汉]郑玄注&quot;: &quot;&quot;, &quot;[唐]贾公彦疏&quot;: &quot;&quot;}"/>
   </metadata>
   <manifest>
     <item id="id0" href="Text/3896.html" media-type="application/xhtml+xml"/>

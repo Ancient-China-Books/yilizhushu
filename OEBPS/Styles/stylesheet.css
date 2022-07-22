@@ -23,37 +23,18 @@ body {
 .em2 {
   font-weight: normal;
 }
-.jiazhu {
-  color: #069;
-  font-weight: normal;
-  font-size: 85%;
-}
 .jianshu {
   color: #069;
   font-weight: normal;
   font-size: 85%;
 }
 .zhushi {
-  margin-left: 1em;
-  color: #7c2404;
-}
-.jiaozhusup {
-  font-size: 12px;
-  color: #B9584E;
-  font-weight: bold;
-}
-.jiaozhusup::after {
-  content: "";
-  background-color: #629fd1;
-  color: white;
-  text-indent: 0;
-  margin: 0;
+  color: #069;
+  font-weight: normal;
+  font-size: 85%;
 }
 .section {
   font-weight: bold;
-}
-.fenduan {
-  margin-bottom: 5%;
 }
 span.yinwen {
   font-size: small;
