@@ -2,26 +2,20 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uLyZLAN4OXkC494HrPA2HrG">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>儀禮注疏</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="[汉]郑玄注 &amp; [唐]贾公彦疏">[汉]郑玄注</dc:creator>
-    <dc:creator opf:role="aut">[唐]贾公彦疏</dc:creator>
-    <dc:publisher>摛澡堂四庫全書薈要</dc:publisher>
+    <dc:creator opf:role="aut" opf:file-as="鄭玄 &amp; 贾公彦">鄭玄</dc:creator>
+    <dc:creator opf:role="aut">贾公彦</dc:creator>
     <dc:description>&lt;div&gt;
-&lt;p&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;基於「&lt;/span&gt;&lt;a href="https://www.donglishuzhai.net/books/84.html"&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #2980b9; background-color: #ffffff"&gt;東里書齋&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;」重製電子版。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
-    <dc:date>1775-11-30T15:54:17+00:00</dc:date>
+&lt;p&gt;秋戰國時代一部分禮制的彙編。古只稱禮，對記言則曰禮經。自西晉初，以戴聖四十九篇稱禮記，因稱禮經爲儀禮。漢世所傳有戴德本、戴聖本和劉向别錄本。各本篇第先後都不同。今傳十七篇是鄭玄注别錄本。鄭著參用今古文，唐賈公彦作疏，在諸經中譌脱最多。清胡培翬撰儀禮正義四十卷，包羅古今，兼列異同，基本上申明鄭玄注，但也有訂正鄭注之處。1959年在甘肅武威發現漢簡多篇。&lt;/p&gt;
+&lt;p&gt;基於「東里書齋」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:identifier id="uuid_id" opf:scheme="uuid">c3992e1a-d430-3eec-1b1c-f0cccc43da95</dc:identifier>
-    <dc:contributor opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
-    <dc:subject>经学</dc:subject>
-    <dc:subject>經學</dc:subject>
-    <dc:subject>礼学</dc:subject>
-    <dc:subject>文献学</dc:subject>
-    <dc:subject>国学</dc:subject>
+    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>古籍</dc:subject>
+    <dc:subject>經部</dc:subject>
     <dc:subject>十三經註疏</dc:subject>
-    <dc:subject>古代文学</dc:subject>
-    <dc:subject>中国</dc:subject>
+    <dc:subject>儀禮</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">de63adca-78af-40df-819d-f15685c1dc22</dc:identifier>
-    <dc:identifier opf:scheme="NEW_DOUBAN">3337257</dc:identifier>
-    <dc:identifier opf:scheme="ISBN">9787532550692</dc:identifier>
+    <dc:identifier opf:scheme="calibre">5e657998-a043-4b01-9d2b-9d425ca78e42</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="十三經注疏" name="calibre:series"/>
     <meta content="8.0" name="calibre:rating"/>
@@ -29,7 +23,7 @@
     <meta name="cover" content="cover"/>
     <meta name="calibre:title_sort" content="儀禮注疏"/>
     <meta name="calibre:series_index" content="1.0"/>
-    <meta name="calibre:author_link_map" content="{&quot;[汉]郑玄注&quot;: &quot;&quot;, &quot;[唐]贾公彦疏&quot;: &quot;&quot;}"/>
+    <meta name="calibre:author_link_map" content="{&quot;鄭玄&quot;: &quot;&quot;, &quot;贾公彦&quot;: &quot;&quot;}"/>
   </metadata>
   <manifest>
     <item id="id0" href="Text/3896.html" media-type="application/xhtml+xml"/>
