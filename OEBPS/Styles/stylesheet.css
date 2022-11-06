@@ -125,3 +125,7 @@ h2 {
   margin: 0;
   padding: 0;
 }
+.shu-ming {
+  text-decoration: #777 wavy underline;
+  text-decoration-thickness: 1px;
+}
